@@ -35,7 +35,7 @@ public class CalculatorTest {
 	public void testSum() {
 		int result = calculator.sum(3, 4);
 
-		assertEquals(10, result);
+		assertEquals(7, result);
 	}
 
 	@Test
